@@ -5,3 +5,6 @@ Dataset Part 2: https://drive.google.com/file/d/1Cawj1GSSmgWZxHWc-HhlWrAOk_SPeo0
 Dataset Part 3: https://drive.google.com/file/d/1ofwXZE3nHUgfXLBtZv-4y8LG23EhIgEL/view?usp=sharing
 Dataset Part 4: https://drive.google.com/file/d/1jIH0XSzAPEqbn3TsS2m1cSsebcwGNG_3/view?usp=sharing
 <img width="823" alt="Screenshot 2023-11-30 112017" src="https://github.com/saransh2112-cse/ABP_Prediction_Using_BiConv-LSTM-/assets/74602862/a07cf61f-c2c1-4ab3-bedc-2af4d72c5a78">
+##############################################
+
+<img width="860" alt="Screenshot 2023-12-01 162848" src="https://github.com/saransh2112-cse/ABP_Prediction_Using_BiConv-LSTM-/assets/74602862/9e13f283-05ba-4ac8-bc9a-63d83faa258c">
